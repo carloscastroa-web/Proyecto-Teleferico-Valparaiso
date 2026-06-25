@@ -31,7 +31,7 @@ Los resultados muestran diferencias importantes entre ambos enfoques. Mientras e
 
 ## Archivos del repositorio
 
-* `Evaluación_de_Demanda_Potencial_del_Teleférico_de_Valparaíso_con_Data_Science-6.pdf`
+* `Informe_Final_Teleferico_Valparaiso.pdf`
 * `TelefericoValparaiso.ipynb`
 
 ## Integrantes
